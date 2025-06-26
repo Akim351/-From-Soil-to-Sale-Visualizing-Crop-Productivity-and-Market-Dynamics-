@@ -18,3 +18,7 @@
 - Agricultural metrics (Planted Area, Yield, Revenue, Profit)
 - Operational dates (Planting and Harvesting)
 - External factors (Soil Type, Irrigation Method, Weather Impact)
+
+# Tools & Technologies
+- Power BI: For data transformation, visualization, and interactive dashboard creation.
+  
