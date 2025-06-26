@@ -24,5 +24,5 @@
 
   # Purpose & Impact
   This dashboard bridges the gap between raw farm data and strategic agricultural decision-making.
-  It supports better resource allocation, input optimization, and long-term planning—ultimately contributing to food security and sustainable farming practices.
+  It supports better resource allocation, input optimization, and long-term planning ultimately contributing to food security and sustainable farming practices.
   
