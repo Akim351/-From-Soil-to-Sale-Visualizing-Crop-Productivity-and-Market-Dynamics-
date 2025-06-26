@@ -11,3 +11,10 @@
 - Seasonal Trends: Track planting and harvest periods to understand seasonal patterns and labor planning.
 - Input Utilization: Explore the impact of soil type, fertilizer, irrigation methods, and pest control strategies.
 - Weather Impact Review: Assess how weather conditions influenced crop performance.
+
+# Dataset Fields Used
+- Farmer details (Name, County, Contact)
+- Crop information (Type, Variety, Season, Inputs)
+- Agricultural metrics (Planted Area, Yield, Revenue, Profit)
+- Operational dates (Planting and Harvesting)
+- External factors (Soil Type, Irrigation Method, Weather Impact)
