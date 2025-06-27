@@ -18,8 +18,7 @@
 - External factors (Soil Type, Irrigation Method, Weather Impact)
 # Tools & Technologies
 - Power BI: For data transformation, visualization, and interactive dashboard creation.
-
-  # Purpose & Impact
-  This dashboard bridges the gap between raw farm data and strategic agricultural decision-making.
+# Purpose & Impact
+* This dashboard bridges the gap between raw farm data and strategic agricultural decision-making.
   It supports better resource allocation, input optimization, and long-term planning ultimately contributing to food security and sustainable farming practices.
   
