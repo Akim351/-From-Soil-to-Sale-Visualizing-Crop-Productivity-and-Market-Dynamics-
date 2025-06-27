@@ -1,6 +1,5 @@
 # -From-Soil-to-Sale-Visualizing-Crop-Productivity-and-Market-Dynamics-
 "From Soil to Sale: Visualizing Crop Productivity and Market Dynamics"
-
 # From Soil to Sale: Agricultural Performance Dashboard
 - This Power BI dashboard provides a comprehensive visual analysis of crop production data collected from farmers across various counties. The aim is to uncover actionable insights that help stakeholders—from individual farmers to policymakers—make data-driven decisions for better agricultural outcomes.
 # Key Features
